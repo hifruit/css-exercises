@@ -1,0 +1,23 @@
+
+
+.heading{
+    background-color: #f3b7b7;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    
+}
+.heading-plus{
+    font-size: 24px;
+}
+#first{
+    color: #0000ff;
+    font-size: 36px;
+    
+    
+}
+
+#second{
+    background-color: #84ee81;
+    font-size: 24px;
+    font-weight: bold;
+    
+}
